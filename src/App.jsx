@@ -244,9 +244,9 @@ const [flipped, setFlipped] = useState(false);
             <div ref={testimonialRef} className="candidate-testimonial-panel panel-visible">
               <h2 className="testimonial-title">Why Shivani?</h2>
               <ul className="testimonial-list">
-                <li>✅ Transparent Leadership</li>
-                <li>✅ Enhanced Student Support</li>
-                <li>✅ A Vibrant Campus Life for Everyone</li>
+                <li>✔️Transparent Leadership✔️</li>
+                <li>✔️Enhanced Student Support✔️</li>
+                <li>✔️A Vibrant Campus Life for Everyone✔️</li>
               </ul>
               <p className="testimonial-info">
                 Meet Shivani at the Main Campus campaign booth throughout the week.
