@@ -33,6 +33,7 @@ lerna-debug.log*
 # ===============================
 .DS_Store
 Thumbs.db
+*.Zone.Identifier
 
 # ===============================
 # Editor & IDE files
@@ -56,3 +57,5 @@ coverage/
 # Misc
 # ===============================
 *.local
+
+
